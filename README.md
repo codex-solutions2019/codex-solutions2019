@@ -16,6 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ⚡ Fun fact: I am fluent in three different programming languages!
 
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codex-solutions2019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/codex-solutions2019/codex-solutions2019/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
@@ -74,4 +91,16 @@ Here are some ideas to get you started:
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)](https://codexsolutions.in/)
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1688495209181?alt=media&token=14f4c1b9-2c11-4817-80b3-7f2a141d8ae0)](https://codexsolutions.in/)
+
+
+
+
+
+
+
+
+
+
+
+
 
