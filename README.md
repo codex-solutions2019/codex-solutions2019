@@ -6,14 +6,14 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working on Some Awesome Stuff
-🌱 I’m currently learning new technologies and expanding my skills
-👯 I’m looking to collaborate on interesting projects with like-minded individuals
-🤔 I’m looking for help with improving my code efficiency and optimization
-💬 Ask me about anything related to programming, technology, or general inquiries
-📫 How to reach me: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917015825458&text&type=phone_number&app_absent=0&text=Hi)
-😄 Pronouns: He/Him
-⚡ Fun fact: ⚡ Fun fact: I am fluent in three different programming languages!
+- 🔭 I’m currently working on Some Awesome Stuff
+- 🌱 I’m currently learning new technologies and expanding my skills
+- 👯 I’m looking to collaborate on interesting projects with like-minded individuals
+- 🤔 I’m looking for help with improving my code efficiency and optimization
+- 💬 Ask me about anything related to programming, technology, or general inquiries
+- 📫 How to reach me: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917015825458&text&type=phone_number&app_absent=0&text=Hi)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ⚡ Fun fact: I am fluent in three different programming languages!
 
 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
