@@ -69,9 +69,8 @@ Here are some ideas to get you started:
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
 ![TikTok](https://img.shields.io/badge/<handle>-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)
 ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send/?phone=917015825458&text&type=phone_number&app_absent=0&text=Hi)
 ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)](https://codexsolutions.in/)
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1688495209181?alt=media&token=14f4c1b9-2c11-4817-80b3-7f2a141d8ae0)](https://codexsolutions.in/)
