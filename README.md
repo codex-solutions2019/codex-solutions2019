@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1688495209181?alt=media&token=14f4c1b9-2c11-4817-80b3-7f2a141d8ae0)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1688495209181?alt=media&token=14f4c1b9-2c11-4817-80b3-7f2a141d8ae0)](https://codexsolutions.in/)
 
