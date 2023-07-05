@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/codex-solutions2019/codex-solutions2019/output/snake.svg" alt="Snake animation" />
+<img src="./output/snake.svg" alt="Snake animation" />
 
 ###
 
